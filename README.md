@@ -1,4 +1,4 @@
-## Hi there, I'm Angie Vaati👋
+## Hi there, I'm Angie Vaati
 
 
 Welcome to my GitHub! I'm currently diving deep into software development, building projects that combine my tech skills with my leadership and business background. I'm passionate about using technoogy to empower people and communities whether through a simple website or digital tool. My drive comes from seeing people improve even in the small ways, turnng ideas into action.
@@ -23,7 +23,7 @@ Building Personal, Organizational and Community-driven Projects
 - Exploring new Cultures and Ideas
 
 
-- 🔭 Currently working on:
+- Currently working on:
   1. Learning HTML, CSS, Javascript, Python
   2. Building Community web-focused pages
   3. Studying clean code and responsive design
