@@ -50,4 +50,4 @@ Phone Number: 254 759256407
   
   
 ## Fun fact: 
-I started in Entrepreneurship, I love Charity; part why I lead in a Community Based Organization(Love Spreaders), Served hundreds in Customer Service and nowam writing my first lines of code
+I started in Entrepreneurship, I love Charity; part why I lead in a Community Based Organization(Love Spreaders), Served hundreds in Customer Service and now am writing my first lines of code
