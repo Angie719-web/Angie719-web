@@ -30,7 +30,7 @@ What excites me about tech is its power to create real, scalable solutions that 
   3. Studying clean code and responsive design
 
  ## My Portfolio
- Visit my live Portfolio here: |Angie719-web| (link) https://angie719-web.github.io/portfolio/
+ Visit my live Portfolio here: https://angie719-web.github.io/portfolio/
  
  ---
  
