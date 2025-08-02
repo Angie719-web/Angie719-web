@@ -10,7 +10,7 @@ JOMO KENYATTA UNIVERSITY OF AGRICULTURE AND TECHNOLOGY
 Nairobi, Kenya
 Graduated June 2023
 Focused on Business Development, Project Planning and Innovation
-*Current Learning* Software Development*
+* Current Learning* Software Development*
 /PLP Academy/
 Learning Programming Languages( HTML, CSS, Javascript and Python)
 Building Personal, Organizational and Community-driven Projects
