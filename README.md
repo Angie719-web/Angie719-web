@@ -1,6 +1,7 @@
-## Hi there 👋
-
-<!--
+## Hi there, I'm Angie Vaati👋
+    Welcome to my GitHub! I'm currently diving deep into software development, building projects that combine my tech skills with my leadership and business background.
+<! --
+Welcome to my GitHub! I'm currently diving deep into software development, building projects that combine my tech skills with my leadership and business background.
 **Angie719-web/Angie719-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
