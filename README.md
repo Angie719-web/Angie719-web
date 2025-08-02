@@ -15,6 +15,7 @@ Learning Programming Languages( HTML, CSS, Javascript and Python)
 Building Personal, Organizational and Community-driven Projects
 
 ## Interests
+What excites me about tech is its power to create real, scalable solutions that improve lives. Coming from a background in entrepreneurship and community service, I see technology as a tool to bridge gaps, empower underserved communities and build sustainable impact. It gives me the freedom to bring ideas to life and share them with the world. Below is a list of Interests;
 - Community Empowerment and Leadership
 - Building purpose driven Tech projects
 - Business Innovation and Social Entrepreneurship
